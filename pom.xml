@@ -18,5 +18,7 @@
     
     <modules>
     <module>sesiones-web-app</module>
-  </modules>
+    <module>app-service</module>
+    <module>app-repository</module>
+    </modules>
 </project>
